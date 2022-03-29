@@ -39,10 +39,9 @@
 	
 	*/
 
-
-
 #include "Math.h"
 #include "CoreFunction.h"
+#include "MaxSubArray.h"
 
 //Algorithm 1 O(n^3)
 int MaxSubarray1(int A[], int n) {
