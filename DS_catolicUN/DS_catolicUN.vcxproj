@@ -140,15 +140,22 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm.cpp" />
+    <ClCompile Include="BinarySearchTree.cpp" />
     <ClCompile Include="CoreFunction.cpp" />
+    <ClCompile Include="Graph.cpp" />
+    <ClCompile Include="LinkedList.cpp" />
     <ClCompile Include="Math.cpp" />
     <ClCompile Include="MaxSubArray.cpp" />
+    <ClCompile Include="Tree.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Algorithm.h" />
     <ClInclude Include="CoreFunction.h" />
+    <ClInclude Include="Graph.h" />
+    <ClInclude Include="LinkedList.h" />
     <ClInclude Include="MaxSubArray.h" />
     <ClInclude Include="Math.h" />
+    <ClInclude Include="Tree.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
